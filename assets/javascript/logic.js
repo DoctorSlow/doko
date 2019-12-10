@@ -3,7 +3,7 @@ $(document).ready(function () {
     // initial variables
     var url = "https://us.jooble.org/api/";
     // var key = "5bbea2df-0017-4a1f-abdc-58ac3dceac09";
-    var key = "7394bf1d-6c72-487d-9766-8c32c01ac3b2";
+    var key = "7879d12c-7fb4-4622-8f92-6e43f2f9d4e0";
     var eventfulURL = "";
     var keyword = "";
     var location = "";
@@ -196,7 +196,7 @@ $(document).ready(function () {
     displayJobs();
 
     // future function that will sort the job listings by city and return the number of listings for each city
-    function sortResults(response) {}
+    function sortResults(response) { }
 
 
     // This makes runNumbeo and searchEvents work
